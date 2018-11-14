@@ -14,7 +14,7 @@ This application allows the user to enter a city and a country that will then pr
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-* [Open Waether Map API](https://openweathermap.org)
+* [Open Weather Map API](https://openweathermap.org)
 
 ## Credit
 * [Using APIs in React Pt.1](https://www.youtube.com/watch?v=204C9yNeOYI)
