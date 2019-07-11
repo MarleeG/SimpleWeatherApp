@@ -20,3 +20,5 @@ This application allows the user to enter a city and a country that will then pr
 * [Using APIs in React Pt.1](https://www.youtube.com/watch?v=204C9yNeOYI)
 * [Using APIs in React Pt.2](https://www.youtube.com/watch?v=P0vsGO4svUM&t=605s)
 
+## Deployed App
+* [SimpleWeatherApp](https://simple-weather-app-mg.herokuapp.com) - App
