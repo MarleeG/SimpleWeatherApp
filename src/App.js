@@ -3,7 +3,7 @@ import Titles from './components/Titles'
 import Form from './components/Form';
 import Weather from './components/Weather';
 
-const API_KEY = '1cb16e9909b4d564900d79d56f020df2'
+const API_KEY = '1cb16e9909b4d564900d79d56f020df2';
 
 class App extends Component {
   state = {
@@ -73,9 +73,5 @@ class App extends Component {
     )
   }
 }
-
-
-
-
 
 export default App;
